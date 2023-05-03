@@ -2,7 +2,7 @@
 
 Created by:
 
-Billy Walker
-Cristina Soare
-Lois Adea
+Billy Walker,  
+Cristina Soare,  
+Lois Adea,  
 Jonathon Thompson
